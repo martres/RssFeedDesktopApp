@@ -14,6 +14,8 @@
     <orderEntry type="library" name="rome-0.9" level="project" />
     <orderEntry type="library" name="jdom-2.0.6" level="project" />
     <orderEntry type="library" name="jdom-1.0" level="project" />
+    <orderEntry type="library" name="gson-2.6.2" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.5" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.plugins:maven-install-plugin:2.3.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven:maven-plugin-api:2.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven:maven-project:2.0.6" level="project" />
@@ -30,7 +32,5 @@
     <orderEntry type="library" name="Maven: org.apache.maven:maven-artifact:2.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-utils:2.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-digest:1.0" level="project" />
-    <orderEntry type="library" name="gson-2.6.2" level="project" />
-    <orderEntry type="library" name="commons-lang3-3.5" level="project" />
   </component>
 </module>
